@@ -50,7 +50,7 @@ function App() {
     {/* <Render  /> */}
     {/* <Render name={name} /> */}
     {/* <button onClick={() => setName("Patil")}>Update Data</button> */}
-    {/* <Lifecyclemethod /> */}
+    <Lifecyclemethod />
     {/* <Hooks /> */}
     {/* <Arraydata></Arraydata> */}
 
@@ -67,7 +67,7 @@ function App() {
     {/* <PureComp/> */}
     {/* <UseMemoHook /> */}
     {/* <UserefHook/> */}
-    <Controlledcomp/>
+    {/* <Controlledcomp/> */}
     {/* <Uncontrolled /> */}
    </div>
   )
